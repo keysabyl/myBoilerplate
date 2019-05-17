@@ -1,0 +1,49 @@
+{
+  "spritemap": {
+    "deur": {
+      "start": 0,
+      "end": 0.510479
+    },
+    "draaien": {
+      "start": 0.969854,
+      "end": 2.520854
+    },
+    "einde": {
+      "start": 2.980229,
+      "end": 5.032583
+    },
+    "horde": {
+      "start": 5.491958,
+      "end": 6.037646
+    },
+    "info": {
+      "start": 6.497021,
+      "end": 7.456313
+    },
+    "instel": {
+      "start": 7.915688,
+      "end": 8.896021
+    },
+    "start": {
+      "start": 9.355396,
+      "end": 11.965021
+    },
+    "triangel": {
+      "start": 12.424396,
+      "end": 13.568396
+    },
+    "trompetten": {
+      "start": 14.027771,
+      "end": 17.255625
+    },
+    "wc": {
+      "start": 17.715,
+      "end": 20.808563
+    }
+  },
+  "resources": [
+    "systemSounds.wav",
+    "systemSounds.ogg",
+    "systemSounds.mp3"
+  ]
+}

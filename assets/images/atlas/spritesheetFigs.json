@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "spritesheetFigs.tps.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1597,
+				"h": 1879
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "jakob.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 603,
+						"h": 1878
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 603,
+						"h": 1877
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 603,
+						"h": 1877
+					}
+				},
+				{
+					"filename": "nele.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 586,
+						"h": 1614
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 586,
+						"h": 1613
+					},
+					"frame": {
+						"x": 606,
+						"y": 1,
+						"w": 586,
+						"h": 1613
+					}
+				},
+				{
+					"filename": "clowns.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 402,
+						"h": 1575
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 402,
+						"h": 1575
+					},
+					"frame": {
+						"x": 1194,
+						"y": 1,
+						"w": 402,
+						"h": 1575
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b8fc5429e6445081197da8b183c2b923:ef223c5704900528ed3caee282852757:f48978aa7cb2c4f0ae2ca9b8dd3ef776$"
+	}
+}

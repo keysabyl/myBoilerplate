@@ -1,0 +1,671 @@
+{
+	"textures": [
+		{
+			"image": "imagesBase.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 958,
+				"h": 1599
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "statusBalkGeel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 77,
+						"h": 1377
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 77,
+						"h": 1377
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 77,
+						"h": 1377
+					}
+				},
+				{
+					"filename": "statusBalkRood.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 77,
+						"h": 1377
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 7,
+						"w": 63,
+						"h": 1363
+					},
+					"frame": {
+						"x": 80,
+						"y": 1,
+						"w": 63,
+						"h": 1363
+					}
+				},
+				{
+					"filename": "statusBalkGroen.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 61,
+						"h": 1361
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 61,
+						"h": 1361
+					},
+					"frame": {
+						"x": 145,
+						"y": 1,
+						"w": 61,
+						"h": 1361
+					}
+				},
+				{
+					"filename": "infoSpel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 690,
+						"h": 692
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 690,
+						"h": 692
+					},
+					"frame": {
+						"x": 208,
+						"y": 1,
+						"w": 690,
+						"h": 692
+					}
+				},
+				{
+					"filename": "infoStatusbalk.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 37,
+						"h": 688
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 37,
+						"h": 688
+					},
+					"frame": {
+						"x": 900,
+						"y": 1,
+						"w": 37,
+						"h": 688
+					}
+				},
+				{
+					"filename": "edubits.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 320,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 100
+					},
+					"frame": {
+						"x": 208,
+						"y": 695,
+						"w": 320,
+						"h": 100
+					}
+				},
+				{
+					"filename": "knopOor.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 201,
+						"h": 201
+					},
+					"frame": {
+						"x": 208,
+						"y": 797,
+						"w": 201,
+						"h": 201
+					}
+				},
+				{
+					"filename": "knopBoei.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 200
+					},
+					"frame": {
+						"x": 208,
+						"y": 1000,
+						"w": 200,
+						"h": 200
+					}
+				},
+				{
+					"filename": "knopFacebook.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 200
+					},
+					"frame": {
+						"x": 208,
+						"y": 1202,
+						"w": 200,
+						"h": 200
+					}
+				},
+				{
+					"filename": "knopInfo.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 200
+					},
+					"frame": {
+						"x": 411,
+						"y": 797,
+						"w": 200,
+						"h": 200
+					}
+				},
+				{
+					"filename": "knopInstel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 200
+					},
+					"frame": {
+						"x": 613,
+						"y": 695,
+						"w": 200,
+						"h": 200
+					}
+				},
+				{
+					"filename": "infoDelicious.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 157,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 142,
+						"h": 142
+					},
+					"frame": {
+						"x": 815,
+						"y": 695,
+						"w": 142,
+						"h": 142
+					}
+				},
+				{
+					"filename": "infoDigg.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 158,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 4,
+						"w": 142,
+						"h": 142
+					},
+					"frame": {
+						"x": 815,
+						"y": 839,
+						"w": 142,
+						"h": 142
+					}
+				},
+				{
+					"filename": "knopOog.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 200
+					},
+					"frame": {
+						"x": 613,
+						"y": 897,
+						"w": 200,
+						"h": 200
+					}
+				},
+				{
+					"filename": "infoFacebook.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 154,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 142,
+						"h": 142
+					},
+					"frame": {
+						"x": 815,
+						"y": 983,
+						"w": 142,
+						"h": 142
+					}
+				},
+				{
+					"filename": "knopTerug.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 200
+					},
+					"frame": {
+						"x": 411,
+						"y": 999,
+						"w": 200,
+						"h": 200
+					}
+				},
+				{
+					"filename": "knopVolscherm.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 200
+					},
+					"frame": {
+						"x": 410,
+						"y": 1201,
+						"w": 200,
+						"h": 200
+					}
+				},
+				{
+					"filename": "knopWis.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 200,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 200,
+						"h": 200
+					},
+					"frame": {
+						"x": 613,
+						"y": 1099,
+						"w": 200,
+						"h": 200
+					}
+				},
+				{
+					"filename": "infoLinkedIn.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 157,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 142,
+						"h": 142
+					},
+					"frame": {
+						"x": 815,
+						"y": 1127,
+						"w": 142,
+						"h": 142
+					}
+				},
+				{
+					"filename": "infoMessenger.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 157,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 142,
+						"h": 142
+					},
+					"frame": {
+						"x": 815,
+						"y": 1271,
+						"w": 142,
+						"h": 142
+					}
+				},
+				{
+					"filename": "boxLeeftijd.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 195,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 195,
+						"h": 193
+					},
+					"frame": {
+						"x": 612,
+						"y": 1301,
+						"w": 195,
+						"h": 193
+					}
+				},
+				{
+					"filename": "infoPinterest.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 4,
+						"w": 142,
+						"h": 142
+					},
+					"frame": {
+						"x": 1,
+						"y": 1380,
+						"w": 142,
+						"h": 142
+					}
+				},
+				{
+					"filename": "infoReddit.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 159,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 4,
+						"w": 142,
+						"h": 142
+					},
+					"frame": {
+						"x": 809,
+						"y": 1415,
+						"w": 142,
+						"h": 142
+					}
+				},
+				{
+					"filename": "infoStumble.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 158,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 4,
+						"w": 142,
+						"h": 142
+					},
+					"frame": {
+						"x": 145,
+						"y": 1404,
+						"w": 142,
+						"h": 142
+					}
+				},
+				{
+					"filename": "infoTwitter.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 162,
+						"h": 150
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 4,
+						"w": 142,
+						"h": 142
+					},
+					"frame": {
+						"x": 289,
+						"y": 1404,
+						"w": 142,
+						"h": 142
+					}
+				},
+				{
+					"filename": "infoknopStart.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 98
+					},
+					"frame": {
+						"x": 433,
+						"y": 1403,
+						"w": 96,
+						"h": 98
+					}
+				},
+				{
+					"filename": "infoTalen.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 93,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 1524,
+						"w": 93,
+						"h": 52
+					}
+				},
+				{
+					"filename": "infoboxLeeftijd.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 96,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 96,
+						"h": 95
+					},
+					"frame": {
+						"x": 433,
+						"y": 1503,
+						"w": 96,
+						"h": 95
+					}
+				},
+				{
+					"filename": "infoknopInfo.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 96
+					},
+					"frame": {
+						"x": 531,
+						"y": 1496,
+						"w": 95,
+						"h": 96
+					}
+				},
+				{
+					"filename": "infoknopNiveau.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 95,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 95,
+						"h": 95
+					},
+					"frame": {
+						"x": 628,
+						"y": 1496,
+						"w": 95,
+						"h": 95
+					}
+				},
+				{
+					"filename": "infoVersie.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 83,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 83,
+						"h": 37
+					},
+					"frame": {
+						"x": 96,
+						"y": 1548,
+						"w": 83,
+						"h": 37
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8e58c4e1f22a7ee098627862272357c9:b1a9784c74ca411a5ca87f4d7b9e4a41:986b41f7ee798a1c3e517cdefb08bf15$"
+	}
+}
